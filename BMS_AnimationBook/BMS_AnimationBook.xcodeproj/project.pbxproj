@@ -30,6 +30,7 @@
 		58B8084B25C9EDE50043E235 /* AnimateTrim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58B8084A25C9EDE50043E235 /* AnimateTrim.swift */; };
 		58B8084E25C9F0150043E235 /* ChallengeTwo_Page45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58B8084D25C9F0150043E235 /* ChallengeTwo_Page45.swift */; };
 		58B8085125C9F86E0043E235 /* ChallengeTwo_PtTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58B8085025C9F86E0043E235 /* ChallengeTwo_PtTwo.swift */; };
+		58D49A5C25C9FE4F00FD6FB6 /* ChallengeTwo_PtThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58D49A5B25C9FE4F00FD6FB6 /* ChallengeTwo_PtThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		58B8084A25C9EDE50043E235 /* AnimateTrim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateTrim.swift; sourceTree = "<group>"; };
 		58B8084D25C9F0150043E235 /* ChallengeTwo_Page45.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeTwo_Page45.swift; sourceTree = "<group>"; };
 		58B8085025C9F86E0043E235 /* ChallengeTwo_PtTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeTwo_PtTwo.swift; sourceTree = "<group>"; };
+		58D49A5B25C9FE4F00FD6FB6 /* ChallengeTwo_PtThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeTwo_PtThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				58B8084A25C9EDE50043E235 /* AnimateTrim.swift */,
 				58B8084D25C9F0150043E235 /* ChallengeTwo_Page45.swift */,
 				58B8085025C9F86E0043E235 /* ChallengeTwo_PtTwo.swift */,
+				58D49A5B25C9FE4F00FD6FB6 /* ChallengeTwo_PtThree.swift */,
 			);
 			name = AnimatableProperties;
 			sourceTree = "<group>";
@@ -240,6 +243,7 @@
 				5819BDC925C9E25B006EEBB2 /* AnimateSizeFrame.swift in Sources */,
 				589888AA25C9E8A500BB678D /* AnimateRoundedCorners.swift in Sources */,
 				5819BDAE25C9B7EC006EEBB2 /* AnimateColor.swift in Sources */,
+				58D49A5C25C9FE4F00FD6FB6 /* ChallengeTwo_PtThree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
