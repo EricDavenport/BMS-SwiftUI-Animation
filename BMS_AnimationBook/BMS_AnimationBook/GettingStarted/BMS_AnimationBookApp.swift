@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct BMS_AnimationBookApp: App {
-    var body: some Scene {
-        WindowGroup {
-            NoAnimationExample()
-        }
+  var body: some Scene {
+    WindowGroup {
+      AnimateRoundedCorners()
     }
+  }
 }

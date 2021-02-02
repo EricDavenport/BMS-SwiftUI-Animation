@@ -10,7 +10,7 @@ import SwiftUI
 struct AnimateScaleEffectAnchors: View {
   @State private var change: Bool = false
   var body: some View {
-    VStack {
+    VStack(spacing: 10) {
       TitleText("Animatable Properties")
       SubtitleText("Scale From anchors")
       BannerText("You can scale around an anchor of you choosing. The default is scaling from the centr anchor.", backColor: .blue, textColor: .white)
