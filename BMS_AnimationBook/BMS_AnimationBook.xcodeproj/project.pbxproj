@@ -28,6 +28,8 @@
 		589888AA25C9E8A500BB678D /* AnimateRoundedCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 589888A925C9E8A500BB678D /* AnimateRoundedCorners.swift */; };
 		58B8084825C9EC1E0043E235 /* AnimateTextSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58B8084725C9EC1E0043E235 /* AnimateTextSize.swift */; };
 		58B8084B25C9EDE50043E235 /* AnimateTrim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58B8084A25C9EDE50043E235 /* AnimateTrim.swift */; };
+		58B8084E25C9F0150043E235 /* ChallengeTwo_Page45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58B8084D25C9F0150043E235 /* ChallengeTwo_Page45.swift */; };
+		58B8085125C9F86E0043E235 /* ChallengeTwo_PtTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58B8085025C9F86E0043E235 /* ChallengeTwo_PtTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +56,8 @@
 		589888A925C9E8A500BB678D /* AnimateRoundedCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateRoundedCorners.swift; sourceTree = "<group>"; };
 		58B8084725C9EC1E0043E235 /* AnimateTextSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateTextSize.swift; sourceTree = "<group>"; };
 		58B8084A25C9EDE50043E235 /* AnimateTrim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateTrim.swift; sourceTree = "<group>"; };
+		58B8084D25C9F0150043E235 /* ChallengeTwo_Page45.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeTwo_Page45.swift; sourceTree = "<group>"; };
+		58B8085025C9F86E0043E235 /* ChallengeTwo_PtTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeTwo_PtTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +144,8 @@
 				589888A925C9E8A500BB678D /* AnimateRoundedCorners.swift */,
 				58B8084725C9EC1E0043E235 /* AnimateTextSize.swift */,
 				58B8084A25C9EDE50043E235 /* AnimateTrim.swift */,
+				58B8084D25C9F0150043E235 /* ChallengeTwo_Page45.swift */,
+				58B8085025C9F86E0043E235 /* ChallengeTwo_PtTwo.swift */,
 			);
 			name = AnimatableProperties;
 			sourceTree = "<group>";
@@ -215,6 +221,7 @@
 			files = (
 				5819BDBD25C9DBAF006EEBB2 /* AnimateGemoetryReader.swift in Sources */,
 				5819BD9225C9AB6D006EEBB2 /* NoAnimationExample.swift in Sources */,
+				58B8084E25C9F0150043E235 /* ChallengeTwo_Page45.swift in Sources */,
 				5819BDA725C9B320006EEBB2 /* ChallengeOne_Page22.swift in Sources */,
 				58B8084825C9EC1E0043E235 /* AnimateTextSize.swift in Sources */,
 				5819BDC325C9DEBF006EEBB2 /* AnimateRotation.swift in Sources */,
@@ -226,6 +233,7 @@
 				5819BDB725C9D31F006EEBB2 /* AnimateOffset.swift in Sources */,
 				5819BD9025C9AB6D006EEBB2 /* BMS_AnimationBookApp.swift in Sources */,
 				5819BDB425C9BA31006EEBB2 /* AnimateHueRotation.swift in Sources */,
+				58B8085125C9F86E0043E235 /* ChallengeTwo_PtTwo.swift in Sources */,
 				5819BDCC25C9E40A006EEBB2 /* AnimateSizeScaleEffect.swift in Sources */,
 				5819BDCF25C9E60D006EEBB2 /* AnimateScaleEffectAnchors.swift in Sources */,
 				5819BDC025C9DD3F006EEBB2 /* AnimateOpacity.swift in Sources */,
