@@ -11,7 +11,9 @@ import SwiftUI
 struct BMS_AnimationBookApp: App {
   var body: some Scene {
     WindowGroup {
-      AnimateRoundedCorners()
+      NavigationView {
+        TableOfContentsPage()
+      }
     }
   }
 }
